@@ -1,4 +1,4 @@
-# Playing with outline!
+# Playing with outlines!
 
 <div align="justify">
 
